@@ -109,7 +109,7 @@
 	 		<div class="col-md-6 col-lg-4">
 	 			<div class="card">
 		<div class="card-heder p-0">
-			<img src="1.jpg"class=" w-100 img-thumbnali">
+			<img src="https://static.vecteezy.com/system/resources/previews/005/346/410/non_2x/close-up-portrait-of-smiling-handsome-young-caucasian-man-face-looking-at-camera-on-isolated-light-gray-studio-background-photo.jpg"class=" w-100 img-thumbnali">
 		</div>
 		<div class="card-body">
 			<h1 class="text-uppercase text-center text-danger">CARD TITLE</h1>
@@ -129,7 +129,7 @@
 	 			 		<div class="col-md-6 col-lg-4">
 	 			<div class="card">
 		<div class="card-heder p-0">
-			<img src="1.jpg"class=" w-100 img-thumbnali">
+			<img src="https://static.vecteezy.com/system/resources/previews/005/346/410/non_2x/close-up-portrait-of-smiling-handsome-young-caucasian-man-face-looking-at-camera-on-isolated-light-gray-studio-background-photo.jpg"class=" w-100 img-thumbnali">
 		</div>
 		<div class="card-body">
 			<h1 class="text-uppercase text-center text-danger">CARD TITLE</h1>
@@ -149,7 +149,7 @@
 	 			 		<div class="col-md-6 col-lg-4">
 	 			<div class="card">
 		<div class="card-heder p-0">
-			<img src="1.jpg"class=" w-100 img-thumbnali">
+			<img src="https://static.vecteezy.com/system/resources/previews/005/346/410/non_2x/close-up-portrait-of-smiling-handsome-young-caucasian-man-face-looking-at-camera-on-isolated-light-gray-studio-background-photo.jpg"class=" w-100 img-thumbnali">
 		</div>
 		<div class="card-body">
 			<h1 class="text-uppercase text-center text-danger">CARD TITLE</h1>
@@ -179,28 +179,28 @@
 	 		<div class="col-md-6 col-xl-3 mt-3">
 	 			<div class="card">
 		           <div class="card-heder p-0">
-			         <img src="1.jpg"class=" w-100 img-thumbnali">
+			         <img src="https://static.vecteezy.com/system/resources/previews/005/346/410/non_2x/close-up-portrait-of-smiling-handsome-young-caucasian-man-face-looking-at-camera-on-isolated-light-gray-studio-background-photo.jpg"class=" w-100 img-thumbnali">
 		          </div>
 	 	       	</div>
 	 	    </div>
 	 	    <div class="col-md-6 col-xl-3 mt-3">
 	 			<div class="card">
 		           <div class="card-heder p-0">
-			         <img src="1.jpg"class=" w-100 img-thumbnali">
+			         <img src="https://static.vecteezy.com/system/resources/previews/005/346/410/non_2x/close-up-portrait-of-smiling-handsome-young-caucasian-man-face-looking-at-camera-on-isolated-light-gray-studio-background-photo.jpg"class=" w-100 img-thumbnali">
 		          </div>
 	 	       	</div>
 	 	    </div>
 	 	    <div class="col-md-6 col-xl-3 mt-3">
 	 			<div class="card">
 		           <div class="card-heder p-0">
-			         <img src="1.jpg"class=" w-100 img-thumbnali">
+			         <img src="https://static.vecteezy.com/system/resources/previews/005/346/410/non_2x/close-up-portrait-of-smiling-handsome-young-caucasian-man-face-looking-at-camera-on-isolated-light-gray-studio-background-photo.jpg"class=" w-100 img-thumbnali">
 		          </div>
 	 	       	</div>
 	 	    </div>
 	 	    <div class="col-md-6 col-xl-3 mt-3">
 	 			<div class="card">
 		           <div class="card-heder p-0">
-			         <img src="1.jpg"class=" w-100 img-thumbnali">
+			         <img src="https://static.vecteezy.com/system/resources/previews/005/346/410/non_2x/close-up-portrait-of-smiling-handsome-young-caucasian-man-face-looking-at-camera-on-isolated-light-gray-studio-background-photo.jpg"class=" w-100 img-thumbnali">
 		          </div>
 	 	       	</div>
 	 	    </div>
@@ -208,28 +208,28 @@
 	 	    <div class="col-md-6 col-xl-3 mt-3">
 	 			<div class="card">
 		           <div class="card-heder p-0">
-			         <img src="1.jpg"class=" w-100 img-thumbnali">
+			         <img src="https://static.vecteezy.com/system/resources/previews/005/346/410/non_2x/close-up-portrait-of-smiling-handsome-young-caucasian-man-face-looking-at-camera-on-isolated-light-gray-studio-background-photo.jpg"class=" w-100 img-thumbnali">
 		          </div>
 	 	       	</div>
 	 	    </div>
 	 	    <div class="col-md-6 col-xl-3 mt-3">
 	 			<div class="card">
 		           <div class="card-heder p-0">
-			         <img src="1.jpg"class=" w-100 img-thumbnali">
+			         <img src="https://static.vecteezy.com/system/resources/previews/005/346/410/non_2x/close-up-portrait-of-smiling-handsome-young-caucasian-man-face-looking-at-camera-on-isolated-light-gray-studio-background-photo.jpg"class=" w-100 img-thumbnali">
 		          </div>
 	 	       	</div>
 	 	    </div>
 	 	    <div class="col-md-6 col-xl-3 mt-3">
 	 			<div class="card">
 		           <div class="card-heder p-0">
-			         <img src="1.jpg"class=" w-100 img-thumbnali">
+			         <img src="https://static.vecteezy.com/system/resources/previews/005/346/410/non_2x/close-up-portrait-of-smiling-handsome-young-caucasian-man-face-looking-at-camera-on-isolated-light-gray-studio-background-photo.jpg"class=" w-100 img-thumbnali">
 		          </div>
 	 	       	</div>
 	 	    </div>
 	 	    <div class="col-md-6 col-xl-3 mt-3">
 	 			<div class="card">
 		           <div class="card-heder p-0">
-			         <img src="1.jpg"class=" w-100 img-thumbnali">
+			         <img src="https://static.vecteezy.com/system/resources/previews/005/346/410/non_2x/close-up-portrait-of-smiling-handsome-young-caucasian-man-face-looking-at-camera-on-isolated-light-gray-studio-background-photo.jpg"class=" w-100 img-thumbnali">
 		          </div>
 	 	       	</div>
 	 	    </div>
@@ -272,7 +272,7 @@
 	 		<div class="col-sm-6  col-lg-3 mt-3">
 	 			<div class="card">
 		<div class="card-heder p-0">
-			<img src="1.jpg"class=" w-100 img-thumbnali">
+			<img src="https://static.vecteezy.com/system/resources/previews/005/346/410/non_2x/close-up-portrait-of-smiling-handsome-young-caucasian-man-face-looking-at-camera-on-isolated-light-gray-studio-background-photo.jpg"class=" w-100 img-thumbnali">
 		</div>
 		<div class="card-body">
 			<h1 class="text-uppercase text-center text-danger">CARD TITLE</h1>
@@ -292,7 +292,7 @@
 	 		<div class="col-sm-6  col-lg-3 mt-3">
 	 			<div class="card">
 		<div class="card-heder p-0">
-			<img src="1.jpg"class=" w-100 img-thumbnali">
+			<img src="https://static.vecteezy.com/system/resources/previews/005/346/410/non_2x/close-up-portrait-of-smiling-handsome-young-caucasian-man-face-looking-at-camera-on-isolated-light-gray-studio-background-photo.jpg"class=" w-100 img-thumbnali">
 		</div>
 		<div class="card-body">
 			<h1 class="text-uppercase text-center text-danger">CARD TITLE</h1>
@@ -312,7 +312,7 @@
 	 		<div class="col-sm-6  col-lg-3 mt-3">
 	 			<div class="card">
 		<div class="card-heder p-0">
-			<img src="1.jpg"class=" w-100 img-thumbnali">
+			<img src="https://static.vecteezy.com/system/resources/previews/005/346/410/non_2x/close-up-portrait-of-smiling-handsome-young-caucasian-man-face-looking-at-camera-on-isolated-light-gray-studio-background-photo.jpg"class=" w-100 img-thumbnali">
 		</div>
 		<div class="card-body">
 			<h1 class="text-uppercase text-center text-danger">CARD TITLE</h1>
@@ -332,7 +332,7 @@
 	 		<div class="col-sm-6  col-lg-3 mt-3">
 	 			<div class="card">
 		<div class="card-heder p-0">
-			<img src="1.jpg"class=" w-100 img-thumbnali">
+			<img src="https://static.vecteezy.com/system/resources/previews/005/346/410/non_2x/close-up-portrait-of-smiling-handsome-young-caucasian-man-face-looking-at-camera-on-isolated-light-gray-studio-background-photo.jpg"class=" w-100 img-thumbnali">
 		</div>
 		<div class="card-body">
 			<h1 class="text-uppercase text-center text-danger">CARD TITLE</h1>
