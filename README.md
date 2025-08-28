@@ -109,7 +109,7 @@
 	 		<div class="col-md-6 col-lg-4">
 	 			<div class="card">
 		<div class="card-heder p-0">
-			<img src="https://static.vecteezy.com/system/resources/previews/005/346/410/non_2x/close-up-portrait-of-smiling-handsome-young-caucasian-man-face-looking-at-camera-on-isolated-light-gray-studio-background-photo.jpg"class=" w-100 img-thumbnali">
+			<img src="https://static.vecteezy.com/system/resources/previews/005/346/410/non_2x/close-up-portrait-of-smiling-handsome-young-caucasian-man-face-looking-at-camera-on-isolated-light-gray-studio-background-photo.jpg" class=" w-100 img-thumbnali">
 		</div>
 		<div class="card-body">
 			<h1 class="text-uppercase text-center text-danger">CARD TITLE</h1>
